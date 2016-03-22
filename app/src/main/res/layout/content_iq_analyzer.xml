@@ -10,7 +10,7 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
     tools:context="com.keysight.guozhitao.iqanalyzer4android.MonitorSpectrum"
-    tools:showIn="@layout/app_bar_monitor_spectrum">
+    tools:showIn="@layout/app_bar_iq_analyzer">
 
     <TextView
         android:layout_width="wrap_content"

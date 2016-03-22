@@ -1,9 +1,10 @@
 <resources>
-    <string name="app_name">IQAnalyzer4Android</string>
+    <string name="app_name">IQ Analyzer</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
+    <string name="action_meas_bar">Measure Bar</string>
     <string name="action_menu">Menu</string>
     <string name="action_exit">Exit</string>
 </resources>

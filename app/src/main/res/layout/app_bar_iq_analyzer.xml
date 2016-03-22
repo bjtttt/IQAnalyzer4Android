@@ -21,7 +21,7 @@
 
     </android.support.design.widget.AppBarLayout>
 
-    <include layout="@layout/content_monitor_spectrum" />
+    <include layout="@layout/content_iq_analyzer" />
 
     <!--android.support.design.widget.FloatingActionButton
         android:id="@+id/fab"
