@@ -1,1 +1,1 @@
-include ':app', ':commondrawengine'
+include ':app', ':commondrawengine', ':measurebar'
