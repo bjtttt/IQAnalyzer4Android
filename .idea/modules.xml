@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/commondrawengine/commondrawengine.iml" filepath="$PROJECT_DIR$/commondrawengine/commondrawengine.iml" />
       <module fileurl="file://$PROJECT_DIR$/commonview/commonview.iml" filepath="$PROJECT_DIR$/commonview/commonview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iocontrol/iocontrol.iml" filepath="$PROJECT_DIR$/iocontrol/iocontrol.iml" />
       <module fileurl="file://$PROJECT_DIR$/measurebar/measurebar.iml" filepath="$PROJECT_DIR$/measurebar/measurebar.iml" />
     </modules>
   </component>

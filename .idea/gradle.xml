@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/commondrawengine" />
             <option value="$PROJECT_DIR$/commonview" />
+            <option value="$PROJECT_DIR$/iocontrol" />
             <option value="$PROJECT_DIR$/measurebar" />
           </set>
         </option>
