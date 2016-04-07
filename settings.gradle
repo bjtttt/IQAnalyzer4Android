@@ -1,1 +1,1 @@
-include ':app', ':commondrawengine', ':measurebar', ':commonview', ':iocontrol'
+include ':app', ':commondrawengine', ':measurebar', ':commonview', ':iocontrol', ':commondrawengine3d'
